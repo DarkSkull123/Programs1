@@ -225,7 +225,7 @@ namespace Program
             
         }
 
-         static void Root()  // DELUJE SAMO KO JE VREDNST BILA PREJ KVADRIRANA!!!!!!!!
+         static void Root()  
         {
             if( Z <= 0)
             {
